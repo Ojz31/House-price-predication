@@ -1,4 +1,4 @@
-House Price Prediction
+# House Price Prediction
 
 This project aims to predict house prices using various machine learning models, including Linear Regression, Decision Tree, Random Forest, and Lasso. The dataset has been preprocessed by normalizing the data, removing outliers, and dropping unnecessary columns. I experimented with the models both before and after normalizing the data, and the results showed improved performance after normalization.
 
